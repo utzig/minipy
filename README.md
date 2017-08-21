@@ -1,5 +1,5 @@
 # Minicurso de Python
-Ministrado por Cauê Baasch de Souza no segundo semestre de 2017.
+Ministrado na [UFSC](https://ufsc.br) no segundo semestre de 2017.
 
 
 ## Notas de aula
@@ -17,17 +17,3 @@ Ministrado por Cauê Baasch de Souza no segundo semestre de 2017.
     + [Operadores de comparação](./aula1.md#operadores-de-comparação)
     + [Operações Booleanas](./aula1.md#operadores-booleanas)
     + [Estruturas condicionais](./aula1.md#estruturas-condicionais)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
