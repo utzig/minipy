@@ -82,7 +82,7 @@ for i in range(1, 50):
         print(i)
 ```
 
-### FizzBuzz
+### Fibonacci
 #### Desafio:
 
 Produzir a sequência de Fibonacci, que começa com `[1, 1]` e cada número seguinte é a soma dos dois que o precedem.
